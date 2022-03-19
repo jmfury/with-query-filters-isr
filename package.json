@@ -1,5 +1,5 @@
 {
-  "name": "upfront-fetching",
+  "name": "with-query-param-static-paths",
   "version": "0.1.0",
   "private": true,
   "scripts": {
